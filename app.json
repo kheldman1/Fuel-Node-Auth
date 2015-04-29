@@ -1,0 +1,13 @@
+{
+  "name": "Fuel Node Auth",
+  "description": "Test app for Fuel Node Auth",
+  "repository": "https://github.com/kheldman1/Fuel-Node-Auth.git",
+  "logo": "https://login.salesforce.com/img/logo190.png",
+  "keywords": [
+    "hubexchnage",
+    "auth",
+    "kheldman"
+  ],
+  "addons": [],
+  "env": {}
+}

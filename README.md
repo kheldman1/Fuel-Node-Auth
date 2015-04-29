@@ -1,6 +1,9 @@
 Fuel Auth (for Node.js) [![Build Status](https://travis-ci.org/ExactTarget/Fuel-Node-Auth.svg)](https://travis-ci.org/ExactTarget/Fuel-Node-Auth)
 =============
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
 [![NPM](https://nodei.co/npm/fuel-auth.png?downloads=true)](https://nodei.co/npm/fuel-auth/)
 
 This library allows users to create authentication clients for ExactTarget APIs.

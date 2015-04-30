@@ -1,12 +1,14 @@
 {
-  "name": "Fuel Node Auth",
-  "description": "Test app for Fuel Node Auth",
+  "name": "FuelConnect Auth for Node.js",
+  "description": "This application provides the capability to utilize Salesforce Marketing Cloud’s FuelConnect Auth service within your Node.js applications",
   "repository": "https://github.com/kheldman1/Fuel-Node-Auth.git",
-  "logo": "https://login.salesforce.com/img/logo190.png",
+  "logo": "http://www.exacttarget.com/blog/wp-content/uploads/2014/10/salesforce-marketing-cloud4.png",
   "keywords": [
-    "hubexchnage",
+    "hubexchange",
+    "fuelconnect",
     "auth",
-    "kheldman"
+    "salesforce",
+    "salesforce marketing cloud"
   ],
   "addons": [],
   "env": {}

@@ -1,7 +1,7 @@
 {
   "name": "SFMC Auth",
   "description": "This application provides the capability to utilize Salesforce Marketing Cloud's Auth library for Node.js applications",
-  "repository": "https://s3-us-west-2.amazonaws.com/sfmclogo/salesforce-marketing-cloud-logo.png",
+  "repository": "https://github.com/kheldman1/Fuel-Node-Auth.git",
   "logo": "http://www.exacttarget.com/blog/wp-content/uploads/2014/10/salesforce-marketing-cloud4.png",
   "keywords": [
     "etauthtest"

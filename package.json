@@ -29,6 +29,8 @@
   "dependencies": {
     "lodash": "~3.5.0",
     "promise": "~6.1.0",
-    "request": "~2.53.0"
+    "request": "~2.53.0",
+    "fuel-rest": "0.8.0",
+    "fuel-soap": "1.0.0"
   }
 }

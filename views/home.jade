@@ -1,8 +1,23 @@
-html
-	head
-		title=title
-		link(href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css', rel='stylesheet')
-	body
-		div.container
-			div.humbotron
-				h1 Welcome to Salesforce Marketing Cloud
+extends layout
+
+block content
+	p(align='center')
+		img(src='https://s3-us-west-2.amazonaws.com/sfmclogo/salesforce-marketing-cloud-logo.png', style='margin-left:auto;margin-right:auto;width:300px;height:auto;')
+
+	h1(align='center') Salesforce Marketing Cloud OAuth
+
+	p This app provides the capability to utilize Salesforce Marketing Cloud's OAuth library, along with REST and SOAP API services within you Node.js applications.
+
+	br
+
+	p You can find step-by-step instructions on how to genrate an API key that consists of an OAuth2 client ID and client secret 
+		a(href='https://code.exacttarget.com/apis-sdks/rest-api/using-app-center-to-get-an-api-key.html') here
+	
+
+	p You can access the github repository that contains the source code along with documentation and examples 
+		a(href='https://github.com/ExactTarget/Fuel-Node-Auth#initialization') here
+	br
+
+
+
+

@@ -10,3 +10,5 @@ app.get('/', function(req, res) {
 		title: 'Welcome'
 	});
 });
+
+app.listen(3000);
